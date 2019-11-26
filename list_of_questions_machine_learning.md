@@ -3,7 +3,7 @@
 ## Learning Theory
 
 1. Describe bias and variance with examples. 
-    Bias is a learner's tendency to consistently learn the same wrong thing. For example, when we shoot a target with 10 shots, we consistently shoot at one corner of the target and bullets wholes do not scatter. Then this is an example of high-bias.
+    [Answer]Bias is a learner's tendency to consistently learn the same wrong thing. For example, when we shoot a target with 10 shots, we consistently shoot at one corner of the target and bullets wholes do not scatter. Then this is an example of high-bias.
     Variance is the tendency to learn random things unrelated to the real signal. Still shooting a target, if bullets wholes scatters aroud the center. Then this is the an example of high variance.
     
 1. What is Empirical Risk Minimization? 
